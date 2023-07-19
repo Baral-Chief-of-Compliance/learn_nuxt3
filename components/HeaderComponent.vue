@@ -1,0 +1,9 @@
+<script></script>
+
+<template>
+    <div class="Header">
+        Header
+    </div>
+</template>
+
+<style lang="scss"></style>
