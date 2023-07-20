@@ -5,6 +5,10 @@ console.log(useNuxtApp())
 
 <template>
     <div>index page</div>
+    <div>
+        <ContentDoc />
+    </div>
+    
     <div class="Main">
         <HeaderComponent />
         <Alert />
@@ -18,3 +22,5 @@ console.log(useNuxtApp())
 
     </div>
 </template>
+
+<style lang="scss"></style>
