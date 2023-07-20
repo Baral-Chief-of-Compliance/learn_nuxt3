@@ -10,6 +10,10 @@
           <li>
             <NuxtLink to="/events">Events</NuxtLink>
           </li>
+
+          <li>
+            <NuxtLink to="/custom">Custom page</NuxtLink>
+          </li>
         </ul>
       </header>
       <NuxtPage />
