@@ -34,7 +34,9 @@ export default{
     },
 
     setup(){
-
+        definePageMeta({
+            middleware: 'special'
+        })
         const { sayHello } = useUtils()
 
 
